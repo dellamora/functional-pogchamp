@@ -7,8 +7,8 @@
 
 ## Folder Structure
 - [Playground](./playground): A place to test and learn Haskell.
-- [Tic Tac Toe](./games/tic-tac-toe/): A simple and ugly implementation of the game Tic Tac Toe.
-- [Room game](./games/poggers/):  
+- [Tic Tac Toe](./tic-tac-toe/): A simple and ugly implementation of the game Tic Tac Toe.
+- [Room game](./poggers/):  
    <img width="486" alt="image" src="https://github.com/user-attachments/assets/2c421400-fe3b-4352-a337-6a1ec438cd61">
 
 
