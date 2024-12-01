@@ -2,13 +2,15 @@
 <div align="center">
   <h1>Welcome to Haskellmora</h1>
   <p>Learning useful ways of thinking about functional-programming using Haskell </p>
-  <img src="./assets/Kujou_Karen_Learns_Haskell.png" alt="Shinomiya_Kaguya_Holding_Haskell_Programming" style="max-width: 60%; height: auto;">
 </div>
 
 
 ## Folder Structure
 - [Playground](./playground): A place to test and learn Haskell.
 - [Tic Tac Toe](./games/tic-tac-toe/): A simple and ugly implementation of the game Tic Tac Toe.
+- [Room game](.games/poggers/):  
+   <img width="486" alt="image" src="https://github.com/user-attachments/assets/2c421400-fe3b-4352-a337-6a1ec438cd61">
+
 
 ## Links
 
